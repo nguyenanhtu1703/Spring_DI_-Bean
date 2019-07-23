@@ -1,0 +1,1 @@
+"DI with @Bean annotation" 
